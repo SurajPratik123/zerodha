@@ -55,9 +55,5 @@ public class ZerodhaLoginPageTest {
 		zerodhaLoginPage.expectedPageTitle(driver, "Dashboard / Kite", "Dashboard / Kite");
 	}
 	
-	@Test
-	public void github() {
-		
-	}
 
 }
