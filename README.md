@@ -1,9 +1,1 @@
 # zerodha
-# zerodha
-# zerodha
-# zerodha
-# zerodha
-# zerodha
-# zerodha
-# zerodha
-# ZerodhaProject
